@@ -1,0 +1,30 @@
+# OPD-SAATHI
+
+### Smart Outpatient Department (OPD) Assistance Platform
+
+OPD-SAATHI is a smart hospital assistance platform designed to improve the outpatient experience in government hospitals.
+
+## Objectives
+- Simplify patient registration.
+- Help patients track OPD queues.
+- Provide information about doctors.
+- Help users find nearby hospitals.
+- Support hospital staff with a dashboard.
+
+## Key Features
+- Patient registration
+- OPD queue tracking
+- Doctor information
+- Nearby hospital map
+- OPD slip interface
+- Staff dashboard
+- Multilingual interface and speech assistance
+
+## Technology
+This project contains separate client and server folders, along with application data and configuration files.
+
+## Project Status
+Hack Cache 2026 project — development and testing in progress.
+
+## Repository
+https://github.com/Ajsha12-crypto/OPD-SAATHI
