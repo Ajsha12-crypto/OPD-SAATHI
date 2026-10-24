@@ -9,7 +9,7 @@ import {
   AlertTriangle, 
   PhoneCall,
   UserCheck, 
-  UserPlus, 
+  UserPlus,
   Zap, 
   ArrowRight,
   Filter,
